@@ -4,7 +4,7 @@ Free HTML Bootstrap Blogging Template by [Sal](https://www.wowthemes.net).
 
 [Live Demo](https://wowthemesnet.github.io/template-mundana-bootstrap-html/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/template-mundana-bootstrap-html/archive/master.zip)
 
-[![screenshot](assets/img/screenshot-mundana.png)](https://wowthemesnet.github.io/template-mundana-bootstrap-html/)
+[![screens](assets/img/screens-mundana.png)](https://wowthemesnet.github.io/template-mundana-bootstrap-html/)
 
 ## Getting Started
 
